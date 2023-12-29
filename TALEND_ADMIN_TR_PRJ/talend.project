@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_7Mv7AKXsEe6chuCI4qs3cQ" label="Talend-Admin-TR-PRJ" language="java" technicalLabel="TALEND_ADMIN_TR_PRJ" author="_7Mv7AaXsEe6chuCI4qs3cQ" productVersion="Talend Cloud Data Fabric-8.0.1.20231222_1430-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Talend-Admin-TR/Talend-Admin-TR-Repository.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_7N3VUKXsEe6chuCI4qs3cQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_7Mv7AaXsEe6chuCI4qs3cQ" login="yfujioka@air.co.jp.nfr1" firstName="yoshiharu" lastName="fujioka" type="DQ"/>
+</xmi:XMI>
